@@ -1,0 +1,139 @@
+{
+    "keys": [
+      {
+        "name": "M14轻语短枪管",
+        "id": "4-3",
+        "base_price": 60000,
+        "ideal_price": 65000,
+        "position": [0.1598, 0.578],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "M14洞察超长枪管",
+        "id": "1-2",
+        "base_price": 60000,
+        "ideal_price": 65000,
+        "position": [0.5900, 0.2500],
+        "wantBuy": 1,
+        "buyMax": 0
+      },
+      {
+        "name": "医疗会议室",
+        "id": "1-3",
+        "base_price": 1130221,
+        "ideal_price": 1240000,
+        "position": [0.8400, 0.2500],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "蓝室核心",
+        "id": "2-1",
+        "base_price": 2300000,
+        "ideal_price": 2800000,
+        "position": [0.3400, 0.3900],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "9x19mm PSO",
+        "id": "2-2",
+        "base_price": 30,
+        "ideal_price": 30,
+        "position": [0.5900, 0.3900],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "地下金库",
+        "id": "2-3",
+        "base_price": 2893131,
+        "ideal_price": 2900000,
+        "position": [0.8400, 0.3900],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "旅店",
+        "id": "3-1",
+        "base_price": 2072018,
+        "ideal_price": 2100000,
+        "position": [0.3400, 0.5400],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "旅店用",
+        "id": "3-2",
+        "base_price": 2072018,
+        "ideal_price": 2100000,
+        "position": [0.5900, 0.5400],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "旅店用餐",
+        "id": "3-3",
+        "base_price": 2072018,
+        "ideal_price": 2100000,
+        "position": [0.8400, 0.5400],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "旅店用餐",
+        "id": "4-1",
+        "base_price": 2072018,
+        "ideal_price": 2100000,
+        "position": [0.3400, 0.6800],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "旅店用餐",
+        "id": "4-2",
+        "base_price": 2072018,
+        "ideal_price": 2100000,
+        "position": [0.5900, 0.6800],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "6.8x51mm FMJ",
+        "id": "4-3",
+        "base_price": 2000,
+        "ideal_price": 2150,
+        "position": [0.8400, 0.6800],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "旅店用餐",
+        "id": "5-1",
+        "base_price": 2072018,
+        "ideal_price": 2100000,
+        "position": [0.3400, 0.8300],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "旅店用餐",
+        "id": "5-2",
+        "base_price": 2072018,
+        "ideal_price": 2100000,
+        "position": [0.5900, 0.8300],
+        "wantBuy": 0,
+        "buyMax": 0
+      },
+      {
+        "name": "旅店用餐",
+        "id": "5-3",
+        "base_price": 2072018,
+        "ideal_price": 2100000,
+        "position": [0.8400, 0.8300],
+        "wantBuy": 0,
+        "buyMax": 0
+      }
+    ]
+}
